@@ -1,0 +1,21 @@
+=== Estoria-A-Failed — free-license images (Openverse openverse.org · Wikimedia Commons commons.wikimedia.org · Lorem Picsum picsum.photos) ===
+file	title	creator	license	source	page
+apt-1.jpg	Urbane Apts / One Bedroom / 12 Mile	urbaneapts	by-sa	openverse	https://www.flickr.com/photos/34170343@N02/3254413157
+apt-2.jpg	Blue Banquette	army.arch	by	openverse	https://www.flickr.com/photos/45923298@N00/3163318058
+apt-3.jpg	Expat Malaysia - Bedroom Mont Kiara condo, Kuala Lumpur, Malaysia	Conny Sandland	by	openverse	https://www.flickr.com/photos/35470197@N08/3779938931
+apt-4.jpg	Design Interior Apartments	JOHNSON DESIGN STUDIO	by	openverse	https://www.flickr.com/photos/107197993@N04/10588986074
+apt-5.jpg	Urbane Apts / One Bedroom / Adams	urbaneapts	by-sa	openverse	https://www.flickr.com/photos/34170343@N02/3745701839
+apt-6.jpg	Urbane Residents / Washington / One Bedroom / Mike	urbaneapts	by-sa	openverse	https://www.flickr.com/photos/34170343@N02/3183447589
+apt-7.jpg	Green Roof, Vancouver BC	NNECAPA	by	openverse	https://www.flickr.com/photos/23163410@N02/2830785109
+apt-8.jpg	The gardens at Haddon Hall	ell brown	by-sa	openverse	https://www.flickr.com/photos/39415781@N06/15016074948
+apt-9.jpg	Panoramic view of Los Angeles from the Lankershim Hotel, showing, 7th Street, Broadway, and Spring Street, ca.1905-1907 (CHS-5781)	Fæ	by	openverse	https://www.flickr.com/photos/50398299@N08/16468825168
+apt-10.jpg	Tray Beside the View	Peter Alfred Hess	by	openverse	https://www.flickr.com/photos/22799676@N03/17091734876
+apt-11.jpg	File:Studio Apartment Minneapolis 1.jpg	AlexiusHoratius	by-sa	openverse	https://commons.wikimedia.org/w/index.php?curid=8971165
+apt-12.jpg	Kitchen Remodeling @ Centreville, VA	GLdesignBuild	by	openverse	https://www.flickr.com/photos/90832744@N05/8286394616
+tower-c.jpg	Düsseldorf: Medienhafen	Bert Kaufmann	by	openverse	https://www.flickr.com/photos/22746515@N02/4554002639
+tower-dusk.jpg	New York City - 2 am	AnktAggrwl	by	openverse	https://www.flickr.com/photos/50651603@N00/199694580
+hero-towers.jpg	Atlanta 24-27 Feb 2010	Brokentaco	by	openverse	https://www.flickr.com/photos/92024986@N00/4399677164
+about-tower.jpg	Brickell City Centre	Phillip Pessar	by	openverse	https://www.flickr.com/photos/25955895@N03/48954854323
+building-facade.jpg	Modern building facade		cc0	openverse	https://www.rawpixel.com/image/6041200/photo-image-public-domain-construction-free
+residence-exterior.jpg	Urbane Residents / Catalpa / Two Bedroom / Sara	urbaneapts	by-sa	openverse	https://www.flickr.com/photos/34170343@N02/3183408353
+og-cover.jpg	1 singapore city skyline dusk panorama 2011	chenisyuan	by-sa	openverse	https://commons.wikimedia.org/w/index.php?curid=15408565

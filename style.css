@@ -1,0 +1,18 @@
+/*
+Theme Name: Estoria
+Theme URI: https://estoria-estates.com/
+Author: Estoria Studio
+Author URI: https://estoria-estates.com/
+Description: A premium real-estate investment theme. Topbar + sticky header, display hero with phone capture, arched tower photography, apartments, services, prices, testimonials, FAQ and contact. No page builder required.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: estoria
+Tags: custom-menu, custom-logo, featured-images, threaded-comments, translation-ready, wide-blocks
+*/
+
+/* Main styles are loaded from assets/css/main.css via functions.php.
+   This file only carries the theme header so WordPress can recognise Estoria. */
